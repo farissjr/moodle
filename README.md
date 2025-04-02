@@ -82,12 +82,18 @@ Personaliza la cabecera y el pie de página
 (Administración del sitio > Apariencia > Temas > Selector de temas).
 Edición de perfil en Moodle
 ![image](https://github.com/user-attachments/assets/da2ae3a9-0b9f-4388-a723-e38fdac0275d)
+![unnamed(15)](https://github.com/user-attachments/assets/91513183-b94e-4045-831f-27ba8a6befc9)
+![unnamed(20)](https://github.com/user-attachments/assets/ccf58da0-15cf-4ac6-999e-812dd772d269)
+
 Añadir contenido al curso A como si fueras un profesor:
 
 Crea actividades y recursos.
 Añade una tarea que requiera un archivo PDF con una fecha de entrega abierta.
 Edición de perfil en Moodle
+![{AB49333A-BC0F-455C-9517-0985B2F8D211}](https://github.com/user-attachments/assets/d16c04cd-4446-45f8-8f67-e1e9fca041f7)
+![{963ADF93-A32D-4CBB-A30C-EF371A97052D}](https://github.com/user-attachments/assets/7d69777e-2be1-4576-9df2-07acc1e6a3d0)
 
+LO DE ABAJO NO ESTA ECHO NO ME FUNCIONA ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
 CONTENIDOS
 
 Crea una UF (Unidad Formativa):
